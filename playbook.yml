@@ -1,0 +1,4 @@
+---
+- hosts: my_hosts 
+  roles:
+    - my-role
