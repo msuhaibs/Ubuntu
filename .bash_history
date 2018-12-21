@@ -719,3 +719,293 @@ git commit -am ".bash_history .bash_logout"
 git status
 ls
 ls -la
+git status
+ls
+ls-la
+ls -la
+clear
+git init
+git status
+ls
+cd hosts/
+ls
+cd m
+cd my_hosts
+clear
+git status
+git rm
+rm -rf .git
+git status
+rm -rf .git
+ls -la
+ls
+cd
+rm -rf .git
+git status
+clear
+git init
+git status
+git remote
+git config --global user.name 'msuhaibs'
+git config --global user.email 'msuhaibs@outlook.com'
+git status
+git add playbook.yml
+git status
+git remote
+git remote add origin https://github.com/msuhaibs/Ubuntu.git
+git remote
+git push -u origin master
+git commit -m "initial commit"
+git push -u origin master
+git status
+git add .bash_history
+git add .bash_logout
+git add .bashrc 
+git status
+git add .gitconfig 
+git add .profile 
+git ass .ssh/
+git add .ssh/
+git status
+git add hosts/
+git add roles/
+git add tmp/
+git status
+git push -u origin master
+git status
+git push -u origin master
+git commit -m "second commit"
+git push -u origin master
+clear
+ls -la
+cd .git/
+ls
+cd
+cd .ansible/
+ls
+cd tmp/
+ls
+cs ansible-tmp-1545090240.68-30667566994187/
+cd
+clear
+cd /mnt/c
+ls
+cd /mnt/d
+ls
+cat statements
+cat statments.pdf
+cd
+#
+clear
+cd /mnt/d
+ls
+cd /mnt/d/ansible_instance_dec_2018.pem
+cd /mnt/d/ansible_instance_dec_2018.pem ~/d/ansible_instance_dec_2018.pem
+clear
+cd
+clear
+cd .ssh/
+cp /mnt/d/ansible_instance_dec_2018.pem
+cp /mnt/d/.ssh/ansible_instance_dec_2018.pem
+cp /mnt/d/.ssh/ansible_instance_dec_2018
+cp mnt/d/
+cp mnt/d/ansible_instance_dec_2018.pem ~/ansible_instance_dec_2018.pem
+cp mnt/d/ansible_instance_dec_2018.pem ~/.
+cp mnt/d/ansible_instance_dec_2018.pem ~/
+clera
+cd
+clear
+pwsd
+pwd
+clear
+cd mnt
+cd mnt/
+cd /mnt
+ls
+c
+cd d
+touch bntx.txt
+ls
+cp ansible_instance_dec_2018.pem /home/msshahi1
+cd
+ls
+cat ansible_instance_dec_2018.pem 
+clear
+ls
+cd hosts/
+pwd
+clear
+cd
+clear
+ps
+ls
+clear
+-ltr
+- ltr
+clear
+ls -ltr
+chmod 400 ansible_instance_dec_2018.pem 
+ls -ltr
+ssh -i "ansible_instance_dec_2018.pem" ubuntu@18.234.41.176
+ls -ltr
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-
+clear
+hosts
+host
+host -4
+hostname
+clear
+ls
+cd hosts/
+ls
+cat my_hosts 
+nano my_hosts 
+cd
+clear
+ansible-playbook -i hosts playbook.yml
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.comclear
+
+ls
+cd hosts/
+cat my_hosts 
+nano my_hosts 
+cd 
+cd hosts/
+cat my_hosts 
+cd
+clear
+ansible-playbook -i hosts playbook.yml
+cd
+ls
+cd hosts/
+cat my_hosts 
+cd
+clear
+ls
+cd hosts/
+cat my_hosts 
+nano my_hosts 
+cd
+clear
+ansible-playbook -i hosts playbook.yml
+clear
+cd hosts/
+cat my_hosts 
+nano my_hosts 
+cat my_hosts 
+cd
+clear
+ansible-playbook -i hosts playbook.yml
+sudo vim /etc/hostname
+clear
+ansible-playbook -i hosts playbook.yml
+cd
+cd hosts/
+nano my_hosts 
+cd
+ansible-playbook -i hosts playbook.yml
+git status
+sudo vim /etc/hostname
+clera
+clear
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.comclear
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com
+clear
+cd hosts/
+nano my_hosts 
+cd
+clear
+ansible-playbook -i hosts playbook.yml
+clear
+git status
+git add hosts/my_hosts
+git status
+git add .bashhistory
+git innit
+git init
+git status
+ls -la
+git status
+cat .bash_history
+histappend
+sudo chown msshahi1 ~/.bash_history
+histappend
+clear
+ls -la
+cat .bash_history 
+git status
+git commit -m "Now attempting to connect to SSH"
+git push -u origin master
+cler
+clear
+git status
+clear
+ls
+cd hosts/
+ls
+cat my_hosts 
+ls
+cat my_hosts 
+nano my_hosts 
+cd
+cwd
+pwd
+ls
+cd roles/
+cd my-role/
+ls
+cd t
+cd tasks
+;s
+ls
+cd 
+cd roles/
+cd my-role/
+cd files/
+ls
+pwd
+cd
+clear
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/
+ls
+cd hosts/
+cd m
+cd my_hosts
+ls
+cat my_hosts 
+cd
+clear
+ansible-playbook -i hosts playbook.yml
+ls
+cd hosts/
+cat my_hosts 
+cat>> my_hosts 
+cat my_hosts 
+nano my_hosts 
+cat my_hosts 
+nano my_hosts 
+cd
+ansible-playbook -i hosts playbook.yml
+cd
+cat
+cd hosts/
+cd m
+cat my_hosts 
+nano my_hosts 
+cd
+ansible-playbook -i hosts playbook.yml
+ls
+r
+cd roles/
+ls
+cd my-role/
+ls
+cd files/
+ls
+ckear
+cd
+clear
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com

@@ -1,2 +1,1 @@
-[my_hosts]
-ip-172-31-41-170
+ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com

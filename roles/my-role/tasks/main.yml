@@ -1,5 +1,5 @@
 ---
 - name: Copy a file to the remote host
   copy:
-    src: test.txt
+    src: irnbru.txt
     dest: /tmp/test.txt
